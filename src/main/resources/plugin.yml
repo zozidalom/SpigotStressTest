@@ -1,0 +1,3 @@
+name: SpigotStressTest
+main: plugin.zozidalom.spigotstresstest.Main
+version: 1.0
